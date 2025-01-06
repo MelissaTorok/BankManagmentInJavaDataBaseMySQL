@@ -1,4 +1,4 @@
- # Bank Management System
+# Bank Management System
 
 A robust Java-based banking system with MySQL database integration, providing essential banking operations through a user-friendly interface.
 
@@ -15,7 +15,7 @@ A robust Java-based banking system with MySQL database integration, providing es
   
 - *Multi-Currency Support*: Handle different currency types
 
-  # Technology Stack
+# Technology Stack
 
 - *Backend*: Java
 - *Database*: MySQL
